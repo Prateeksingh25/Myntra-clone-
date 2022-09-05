@@ -1,2 +1,3 @@
-# Myntra-clone-
- developed clone of Myntra website which is india's most famous shopping website and  build this website using HTML, CSS and JavaScript..
+ # myntra-clone
+Construct week project.
+![Screenshot (180)](https://user-images.githubusercontent.com/98827173/171259640-bc6d10ef-f58b-46f2-9cd3-ad96ecf1ea20.png)
